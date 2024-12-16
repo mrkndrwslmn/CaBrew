@@ -10,10 +10,10 @@
  */
 public class CaBrew {
     public static void main(String[] args) {
-        Login CaBrew_LoginFrame = new Login();
-        CaBrew_LoginFrame.setVisible(true);
-        CaBrew_LoginFrame.pack();
-        CaBrew_LoginFrame.setLocationRelativeTo(null);        
+        LoginRegister CaBrewLogiRegisternFrame = new LoginRegister();
+        CaBrewLogiRegisternFrame.setVisible(true);
+        CaBrewLogiRegisternFrame.pack();
+        CaBrewLogiRegisternFrame.setLocationRelativeTo(null);        
     }
     
 }
