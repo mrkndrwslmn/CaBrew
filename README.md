@@ -72,7 +72,7 @@ We welcome contributions to improve **Cabrew**! To contribute:
 For inquiries or support, please contact the developer:
 
 - **Email**: [Outlook](markandrewsoliman@outlook.com)
-- **LinkedIn**: [Mark Andrew Soliman](https://ph.linkedin.com/in/markandrewsoliman_
+- **LinkedIn**: [Mark Andrew Soliman](https://ph.linkedin.com/in/markandrewsoliman)
 
 Enjoy using Cabrew! Cheers!
 
